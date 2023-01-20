@@ -61,10 +61,9 @@ Django
 
 Tensorflow
 
-```
 ## System Architecture
 
-<img src="/Results/ER_Diagram_Yoga_Classes.png">
+<img src="https://drive.google.com/uc?export=view&id=194G1N3W6CbqgAayQ0aO20U7PNrZjyjXg">
 
 ## Implementation
 ### Home Page
