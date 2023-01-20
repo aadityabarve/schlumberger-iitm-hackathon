@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://drive.google.com/uc?export=view&id=1cWD-C03SZiRX8hCxu0sQn2c-i0i3b82F" alt="Logo" width="80" height="80">
+    <img src="https://drive.google.com/uc?export=view&id=1cWD-C03SZiRX8hCxu0sQn2c-i0i3b82F" alt="Logo" width="200" height="50">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
